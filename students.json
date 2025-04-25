@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Nithya",
+        "roll": "1",
+        "marks": [
+            85,
+            78,
+            92
+        ],
+        "total": 255,
+        "grade": "B"
+    },
+    {
+        "name": "Pavi",
+        "roll": "2",
+        "marks": [
+            56,
+            65,
+            60
+        ],
+        "total": 181,
+        "grade": "C"
+    },
+    {
+        "name": "Kani",
+        "roll": "3",
+        "marks": [
+            95,
+            98,
+            97
+        ],
+        "total": 290,
+        "grade": "A"
+    }
+]
